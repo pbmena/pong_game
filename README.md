@@ -8,6 +8,26 @@ Pong Game Flutter Project.
 <img src="assets/readme_screen/pong_demo.gif" width=200>
 </p>
 
+## File Structure
+
+```bash
+lib
+│   ├── main.dart
+│   ├── screens
+│   │   └── home_screen.dart
+│   ├── utils
+│   │   ├── constants.dart
+│   │   └── enum.dart
+│   └── widgets
+│       ├── block.dart
+│       ├── control_button.dart
+│       ├── dialog.dart
+│       ├── game_ball.dart
+│       ├── init_message.dart
+│       ├── score_check.dart
+│       └── widgets.dart
+```
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
