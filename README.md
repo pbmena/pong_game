@@ -12,20 +12,20 @@ Pong Game Flutter Project.
 
 ```bash
 lib
-│   ├── main.dart
-│   ├── screens
-│   │   └── home_screen.dart
-│   ├── utils
-│   │   ├── constants.dart
-│   │   └── enum.dart
-│   └── widgets
-│       ├── block.dart
-│       ├── control_button.dart
-│       ├── dialog.dart
-│       ├── game_ball.dart
-│       ├── init_message.dart
-│       ├── score_check.dart
-│       └── widgets.dart
+├── main.dart
+├── screens
+│   └── home_screen.dart
+├── utils
+│   ├── constants.dart
+│   └── enum.dart
+└── widgets
+    ├── block.dart
+    ├── control_button.dart
+    ├── dialog.dart
+    ├── game_ball.dart
+    ├── init_message.dart
+    ├── score_check.dart
+    └── widgets.dart
 ```
 
 ## Getting Started
